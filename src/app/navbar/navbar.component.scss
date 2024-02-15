@@ -1,0 +1,5 @@
+.active{
+    border-bottom: 2px solid rgb(208, 221, 18);
+    transform: scale(1.1);
+    transition: borser-bottom 0.3s, color 0.3s ease, transform 0.3s ease;
+}
